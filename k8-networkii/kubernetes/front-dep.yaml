@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: front
-          image: academind/kub-demo-front:latest
+          image: successtech/k8-network-front:latest
